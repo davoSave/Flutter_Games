@@ -1,16 +1,5 @@
-# flutter_games
+# Flutter_Games 🎮
 
-A new Flutter project.
+Esta aplicación consiste en una colección de minijuegos 2D desarrollados con Flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+El objetivo principal es aprender las capacidades de Flutter en la creación de interfaces interactivas y dinámicas para juegos móviles.
